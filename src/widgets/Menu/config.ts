@@ -176,7 +176,7 @@ export const socials = [
   {
     label: "Reddit",
     icon: "RedditIcon",
-    href: "https://www.reddit.com/r/pixiuswaptoken",
+    href: "https://www.reddit.com/u/pixiuswaptoken",
   },
 ];
 
